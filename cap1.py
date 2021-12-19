@@ -161,4 +161,10 @@ Disseminação da consciência de segurança dentro dos times;
 Softwares mais seguros e com maior qualidade;
 Redução de custo para identificar e resolver umproblema de segurança.
 
+A integração entre as áreas de desenvolvimento e ops visa atender as necessidades de três stakeholder (devs, infra e
+cliente). Além da integração, é importante reforçar a importância da segurança no desenvolvimento de software.
+A abordagem de DevSecOps permite integrar o time de segurança no fluxo de desenvolvimento, adicionar testes e scaners de
+vulnerabilidade e segurança nas aplicações, questão crucial no desenvolvimento modermo de software e aplicações.
+
+
 '''
